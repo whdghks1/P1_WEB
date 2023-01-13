@@ -5,9 +5,9 @@ export default function Main() {
         <div>
             <header>
                 <p>Brand Story</p>
-                <p>Brand Story</p>
-                <p>Brand Story</p>
-                <p>Brand Story</p>
+                <p>Syulist/Styling</p>
+                <p>Shop</p>
+                <p>My Page</p>
             </header>
         </div>
     );
