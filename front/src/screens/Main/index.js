@@ -1,5 +1,9 @@
 import React from 'react';
 
+const StyledHeader = styled.header`
+    
+`;
+
 export default function Main() {
     return (
         <div>
