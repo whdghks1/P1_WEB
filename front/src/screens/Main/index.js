@@ -1,7 +1,7 @@
 import React from 'react';
 
 const StyledHeader = styled.header`
-    
+  margin-top : 0px;  
 `;
 
 export default function Main() {
