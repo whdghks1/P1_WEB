@@ -7,13 +7,14 @@ const StyledHeader = styled.header`
 
 export default function Main() {
     return (
-        <div>
+        <>
             <StyledHeader>
                 <p>Brand Story</p>
                 <p>Syulist/Styling</p>
                 <p>Shop</p>
                 <p>My Page</p>
             </StyledHeader>
-        </div>
+            <bottom></bottom>
+        </>
     );
 }
