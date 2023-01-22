@@ -9,6 +9,7 @@ export default function Main() {
     return (
         <>
             <StyledHeader>
+                <image href='./src/image/logo'></image>
                 <p>Brand Story</p>
                 <p>Syulist/Styling</p>
                 <p>Shop</p>
