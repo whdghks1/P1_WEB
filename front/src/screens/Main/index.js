@@ -5,6 +5,10 @@ const StyledHeader = styled.header`
   background-color: white;
 `;
 
+const Main = styled.div'
+    background - color: white;
+';
+
 export default function Main() {
     return (
         <>
