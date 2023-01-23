@@ -2,12 +2,12 @@ import React from 'react';
 
 const StyledHeader = styled.header`
   margin-top : 0px;
-  background-color: white;
+  background: white;
 `;
 
-const Main = styled.div'
-    background - color: white;
-';
+const Body = styled.body`
+    background: white;
+`;
 
 export default function Main() {
     return (
