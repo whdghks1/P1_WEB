@@ -19,6 +19,7 @@ export default function Main() {
                 <p>Shop</p>
                 <p>My Page</p>
             </StyledHeader>
+            <div></div>
             <bottom>instargram</bottom>
         </>
     );
