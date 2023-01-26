@@ -19,7 +19,7 @@ export default function Main() {
                 <p>Shop</p>
                 <p>My Page</p>
             </StyledHeader>
-            <div></div>
+            <div>어휴</div>
             <bottom>instargram</bottom>
         </>
     );
