@@ -19,7 +19,6 @@ export default function Main() {
                 <p>Shop</p>
                 <p>My Page</p>
             </StyledHeader>
-            <div>어휴 ㅇㅣ래야 할깔</div>
             <bottom>instargram</bottom>
         </>
     );
