@@ -20,6 +20,7 @@ export default function Main() {
                 <p>My Page</p>
             </StyledHeader>
             <banner></banner>
+            <section></section>
             <bottom>instargram</bottom>
         </>
     );
