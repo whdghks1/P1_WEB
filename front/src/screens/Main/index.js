@@ -20,7 +20,7 @@ export default function Main() {
                 <p>My Page</p>
             </StyledHeader>
             <banner></banner>
-            <section>야근 싫어 아직 회사인데...</section>
+            <section>야근 싫어 싫어 싫어 싫어 아직 회사인데...</section>
             <bottom>instargram</bottom>
         </>
     );
