@@ -19,10 +19,12 @@ export default function Main() {
                 <p>Shop</p>
                 <p>My Page</p>
             </StyledHeader>
-            <banner></banner>
-            <banner></banner>
-            <banner></banner>
-            <banner></banner>
+            <section>
+                <banner></banner>
+                <banner></banner>
+                <banner></banner>
+                <banner></banner>
+            </section>
             <bottom>instargram</bottom>
         </>
     );
