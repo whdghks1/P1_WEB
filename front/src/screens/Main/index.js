@@ -25,6 +25,9 @@ export default function Main() {
                 <banner></banner>
                 <banner></banner>
             </section>
+            <section>
+                
+            </section>
             <bottom>instargram</bottom>
         </>
     );
