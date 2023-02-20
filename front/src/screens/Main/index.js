@@ -28,6 +28,7 @@ export default function Main() {
             <section>
                 <p></p>
                 <p></p>
+                <p></p>
             </section>
             <bottom>instargram</bottom>
         </>
