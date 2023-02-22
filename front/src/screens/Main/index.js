@@ -29,7 +29,6 @@ export default function Main() {
                 <p></p>
                 <p></p>
                 <p></p>
-                <p></p>
             </section>
             <bottom>instargram</bottom>
         </>
