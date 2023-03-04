@@ -27,7 +27,7 @@ export default function Main() {
             </section>
             <section>
                 <p></p>
-                <p>설악산 힘들어</p>
+                <p></p>
             </section>
             <bottom>instargram</bottom>
         </>
