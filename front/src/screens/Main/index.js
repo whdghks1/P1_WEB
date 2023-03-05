@@ -27,7 +27,7 @@ export default function Main() {
             </section>
             <section>
                 <p></p>
-                <p></p>
+                <p>하지 말까</p>
             </section>
             <bottom>instargram</bottom>
         </>
