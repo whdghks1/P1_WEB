@@ -26,7 +26,7 @@ export default function Main() {
                 <banner></banner>
             </section>
             <section>
-                <p></p>
+                <p>야근하고 등교는 힘들구만</p>
                 <p></p>
             </section>
             <bottom>instargram</bottom>
