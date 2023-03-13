@@ -15,7 +15,7 @@ export default function Main() {
             <StyledHeader>
                 <div>
                     <div>
-                        <p>이용안내</p>
+                        <p>야근은 언제나 싫다 이용안내</p>
                         <p>고객센터</p>
                         <p>로그인</p>
                         <p>회원가입</p>
